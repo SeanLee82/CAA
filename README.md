@@ -24,6 +24,10 @@ Our process, that is compatible with a range of existing UDA techniques, has und
 ```
 ```
 
+<p align="center">
+<img src="Result.pdf" width="1000" alt="" class="img-responsive">
+</p>
+
 ## Datasets 📖
 
 
