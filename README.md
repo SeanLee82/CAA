@@ -1,10 +1,6 @@
 # CAA : Category-specific Augmentation Search Using Attentional Interpolation for Unsupervised Domain Adaptation (ECAI2025)
 
 
-<p align="center">
-<img src=".png" width="1000" alt="" class="img-responsive">
-</p>
-
 ## Abstract ✨
 
 This paper addresses a critical challenge in Unsupervised Domain Adaptation (UDA): achieving effective domain alignment without losing category-specific information. 
@@ -14,6 +10,10 @@ We propose an attentional interpolation method to reduce the computational deman
 This method optimizes augmentation strategy selection within a single training session, significantly improving efficiency.
 Our process, that is compatible with a range of existing UDA techniques, has undergone rigorous validation, demonstrating consistent performance improvements across various domain adaptation frameworks by maintaining fixed hyperparameters in integrated methods.
 
+
+<p align="center">
+<img src="Framework.pdf" width="1000" alt="" class="img-responsive">
+</p>
 
 
 ## News 📢
