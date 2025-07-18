@@ -10,10 +10,7 @@ We propose an attentional interpolation method to reduce the computational deman
 This method optimizes augmentation strategy selection within a single training session, significantly improving efficiency.
 Our process, that is compatible with a range of existing UDA techniques, has undergone rigorous validation, demonstrating consistent performance improvements across various domain adaptation frameworks by maintaining fixed hyperparameters in integrated methods.
 
-
-<p align="center">
-<img src="Framework.pdf" width="1000" alt="" class="img-responsive">
-</p>
+<img src="figs/workflow.png" width="1200"/>
 
 
 ## News 📢
@@ -24,10 +21,6 @@ Our process, that is compatible with a range of existing UDA techniques, has und
 ```
 ```
 
-<p align="center">
-<img src="Result.pdf" width="1000" alt="" class="img-responsive">
-</p>
-
 ## Datasets 📖
 
 
@@ -35,6 +28,8 @@ Our process, that is compatible with a range of existing UDA techniques, has und
 
 
 ## Results 🎯
+
+<img src="figs/result.png" width="1200"/>
 
 
 ## Citation 🔍
